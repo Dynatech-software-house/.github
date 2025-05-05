@@ -24,7 +24,7 @@ Oferecemos uma ampla gama de serviços para atender às necessidades de nossos c
 
 Estamos orgulhosos de ter trabalhado com várias empresas renomadas ao longo dos anos. Aqui estão alguns dos nossos clientes destacados:
 
-1. SP Saúde - A SP Saúde é uma das principais operadoras de plano de saúde do estado de São Paulo. Trabalhamos em parceria com eles para desenvolver um sistema de gestão eficiente que automatiza processos internos, melhora a experiência do usuário e aumenta a produtividade.
+1. SP Saúde - A SP Saúde é uma das principais operadoras de plano de saúde. Trabalhamos em parceria com eles para desenvolver um sistema de gestão eficiente que automatiza processos internos, melhora a experiência do usuário e aumenta a produtividade.
 
 2. MOB Proteção Veicular - A MOB Proteção Veicular é uma empresa especializada em proteção veicular e rastreamento de veículos. Desenvolvemos um aplicativo móvel exclusivo para eles, permitindo que seus clientes monitorem seus veículos em tempo real e acessem facilmente os serviços oferecidos.
 
@@ -44,10 +44,6 @@ Nós valorizamos a colaboração da comunidade e ficaríamos felizes em receber 
 
 Se você estiver interessado em nossos serviços, tiver alguma dúvida ou quiser saber mais sobre a DynaTech, não hesite em entrar em contato conosco.
 
-- Website: [
-
-www.dynatech.com](https://www.dynatech.com)
-- Email: info@dynatech.com
-- Telefone: +55 11 1234-5678
+- Telefone: +55 67 99885-5116
 
 Estamos ansiosos para trabalhar com você e ajudá-lo a impulsionar o sucesso do seu negócio através de soluções tecnológicas inovadoras.
